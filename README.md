@@ -8,4 +8,4 @@ For training and testing we use 28 equities of the DOW-30.  To run tests on diff
 
 The paper we wrote for the project is also in the repository if you are curious about the choice we made or want to understand how the models work.
 
-We would like to thank Professor Parijat Dube for teaching the course and providing us with valuable feedback on the project.  We woudl also like to thank Google for providing GCP credits for students.
+We would like to thank Professor Parijat Dube for teaching the course and providing us with valuable feedback on the project.  We would also like to thank Google for providing GCP credits for students.
